@@ -9,7 +9,7 @@ This is a raw list.  If I find something that reasonably is in line with what I 
 
 ## Browser inspection
 
-[Python tips to gather details](https://github.com/Cr0mb/Browser-Data-Extraction-Scripts)<https://github.com/Cr0mb/Browser-Data-Extraction-Scrip>
-[Linux oriented history query and json tips](https://github.com/Stefan-Heimersheim/browser_tools)<https://github.com/Stefan-Heimersheim/browser_tools>
+ - [Python tips to gather details](https://github.com/Cr0mb/Browser-Data-Extraction-Scripts)<https://github.com/Cr0mb/Browser-Data-Extraction-Scrip>
+ - [Linux oriented history query and json tips](https://github.com/Stefan-Heimersheim/browser_tools)<https://github.com/Stefan-Heimersheim/browser_tools>
 
 #### Last updated:   2025-10-22 AC
